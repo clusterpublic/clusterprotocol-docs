@@ -1,0 +1,16 @@
+# Table of contents
+
+* [Agents](README.md)
+  * [Create Agent](agents/create-agent.md)
+  * [Update agents](agents/update-agents.md)
+* [Datasets](datasets/README.md)
+  * [Create Datasets](datasets/create-datasets.md)
+  * [Use a dataset](datasets/use-a-dataset.md)
+* [Models](models/README.md)
+  * [Create a model](models/create-a-model.md)
+  * [Use a model](models/use-a-model.md)
+* [Arena](arena/README.md)
+  * [Playground Example:Llama3](arena/playground-example-llama3.md)
+* [Dedicated deployment](dedicated-deployment.md)
+* [Packages](packages/README.md)
+  * [npm](packages/npm.md)
